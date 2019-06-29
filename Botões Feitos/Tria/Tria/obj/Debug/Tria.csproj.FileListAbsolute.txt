@@ -1,0 +1,10 @@
+C:\Users\Professor\source\repos\Tria\Tria\bin\Debug\Tria.exe.config
+C:\Users\Professor\source\repos\Tria\Tria\bin\Debug\Tria.exe
+C:\Users\Professor\source\repos\Tria\Tria\bin\Debug\Tria.pdb
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.csprojAssemblyReference.cache
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.frmTriangulos.resources
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.Properties.Resources.resources
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.csproj.GenerateResource.cache
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.exe
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.pdb
